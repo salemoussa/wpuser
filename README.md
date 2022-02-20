@@ -1,2 +1,2 @@
 # wpuser
-Automated wordpress username finder using JSON file path endpoint.
+Automated wordpress username finder dashboard using JSON file path endpoint.
