@@ -1,2 +1,2 @@
 # wpuser
-Wordpress username finder using JSON file path hack
+Automated wordpress username finder using JSON file path endpoint.
